@@ -1,3 +1,3 @@
 import pandas as pd
 
-a=pd.DataFrame
+pd.read_csv("heart.csv")
